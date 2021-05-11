@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Sagniksynk(Sagnik Dasgupta)
 - 👀 I’m interested in Programming, gaming, football.
 - 🌱 I’m currently learning Machine learning, data science.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me:
+- Gmail: sagnik2000trainstation@gmail.com
+- Linkedin: linkedin.com/in/sagnik-dasgupta-b11170186
 
 <!---
 Sagniksynk/Sagniksynk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
