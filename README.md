@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sagniksynk(Sagnik Dasgupta)
 - 👀 I’m interested in Programming, gaming, football.
-- 🌱 I’m currently learning Machine learning, data science.
+- 🌱Currently learning Game Development and Blender.
 - 📫 How to reach me:
 - Gmail: sagnik2000trainstation@gmail.com
 - Linkedin: linkedin.com/in/sagnik-dasgupta-b11170186
