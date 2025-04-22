@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming, gaming, football.
 - 🌱Currently learning Game Development and Blender.
 - 📫 How to reach me:
-- Gmail: sagnik2000trainstation@gmail.com
+- Gmail: sagnikdasgupta09062k@gmail.com
 - Linkedin: linkedin.com/in/sagnik-dasgupta-b11170186
 
 <!---
