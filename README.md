@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sagnik Dasgupta</h1>
 <h3 align="center">A passionate Unity Game Programmer from India</h3>
 
-- 💬 Ask me about **react, C# and C++**
+- 💬 Ask me about **Unity, C# and C++**
 
 - 📫 How to reach me **sagnik2000trainstation@gmail.com**
 
